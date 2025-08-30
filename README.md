@@ -1,4 +1,4 @@
-<img width="816" height="970" alt="image" src="https://github.com/user-attachments/assets/bf296ccb-9ec0-4b65-80aa-2a843f0f3b49" /># Security Login/Logout - Auth0 Integration Tutorial
+# Security Login/Logout - Auth0 Integration Tutorial
 
 
 ## Prerequisites
@@ -40,6 +40,7 @@ Add Application URIs
 - **Allowed Logout URLs**: http://localhost:3000
 - **Allowed Web Origins**: http://localhost:3000
 - **Allowed Origins (CORS)**: http://localhost:3000
+<img width="816" height="970" alt="image" src="https://github.com/user-attachments/assets/bf296ccb-9ec0-4b65-80aa-2a843f0f3b49" />
 <img width="2100" height="1288" alt="image" src="https://github.com/user-attachments/assets/ad81f376-4fe7-4aea-b7ee-06b6446de805" />
 <img width="1648" height="1352" alt="image" src="https://github.com/user-attachments/assets/41c5018c-3015-495f-931a-ec517db9e129" />
 <img width="1548" height="924" alt="image" src="https://github.com/user-attachments/assets/28f889e5-5e27-482f-9421-3ba30fe0d02b" />
